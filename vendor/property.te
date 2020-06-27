@@ -8,6 +8,9 @@ vendor_public_prop(vendor_displayfeature_prop)
 # Mlipay
 vendor_public_prop(vendor_payment_security_prop)
 
+# IR
+type lirc_prop, property_type;
+
 # Sensors
 vendor_public_prop(vendor_cct_prop)
 vendor_public_prop(vendor_parsedalgo_prop)
